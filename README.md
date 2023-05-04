@@ -14,4 +14,7 @@
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
     <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
     <img alt="Postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-</div>
+</div><br>
+
+Apaixonado por tecnologia e inovação. Me dedico e estudo diariamente com muito foco e empenho para entender mais das tecnologias e fortalecer minhas bases. Estou em constante aprendizado criando projetos pessoais. 
+ 
